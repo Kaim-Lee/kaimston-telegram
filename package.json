@@ -1,5 +1,5 @@
 {
-  "name": "winston-telegram",
+  "name": "kaimston-telegram",
   "description": "A Telegram transport for winston",
   "version": "1.2.0",
   "author": "Ivan Marban",
