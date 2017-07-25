@@ -1,4 +1,4 @@
-# winston-telegram
+# kaimston-telegram
 
 [![NPM](https://nodei.co/npm/winston-telegram.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/winston-telegram/)
 
@@ -7,8 +7,8 @@ A [Telegram][0] transport for [winston][1].
 ## Installation
 
 ``` sh
-$ npm install winston
-$ npm install winston-telegram
+$ npm install kaimston
+$ npm install kaimston-telegram
 ```
 
 ## Usage
